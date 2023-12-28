@@ -1,0 +1,9 @@
+.banner-bg {
+    background-image: url('https://i.ibb.co/h8dGV49/banner-image.png'), linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    object-fit: cover;
+}
